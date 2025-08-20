@@ -10,7 +10,7 @@
 
 ## 固件说明
 
-- 默认管理地址：`192.168.1.1`
+- 默认管理地址：`192.168.10.1`
 - 默认用户名：`root`
 - 默认密码：无
 
@@ -27,6 +27,4 @@
 
 [VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/openwrt-ci)
 
-## 固件下载
 
-参见[仓库Release](https://github.com/cv2wx/build-immortalwrt-4ipq/releases)
